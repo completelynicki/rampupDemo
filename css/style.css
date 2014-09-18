@@ -83,6 +83,27 @@
 	list-style: none;
 }
 
+@media (max-width:765px) {
+	.navbarDemo{
+		text-align:center;
+		padding:10px;
+	}
+	.navbarDemo li{
+		display:inline-block;
+	}
+	.navbarDemo .navbar-brand{
+		text-align: center;
+		float:none;
+		padding-top:20px;
+		margin-top:0;
+	}
+}
+
+@media (max-width: 450px) {
+	.indexTop{
+		height:100vh;
+	}
+}
 
 
 
