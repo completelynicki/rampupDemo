@@ -1,0 +1,89 @@
+.container{
+	min-height:100vh;
+	padding:0;
+	margin:0;
+	width:100%;
+}
+.clearAll{
+	clear:both;
+}
+.navbarDemo{
+	background:#003300;
+	border:0;
+	color:white;
+	border-radius:0;
+	margin:0;
+}
+.navbarDemo a{
+	color:#FFD685;
+}
+.navbarDemo a:hover{
+	color:white;
+}
+.navbarDemo li a{
+	color:white;
+}
+.navbarDemo li a:hover{
+	color:#FFD685;
+	background:none;
+}
+.indexTop{
+	background:url(../images/wood.jpg);
+	height:70vh;
+	background-repeat: none;
+	width:100%;
+	margin-top:-20px;
+	padding:40px 0 60px;
+	text-align: center;
+}
+.indexh1{
+	color:#003300;
+	font-size:80px;
+	font-family:Pacifico, cursive, sans-serif;
+	margin:30px 0;
+}
+.indexText{
+	font-size:16px;
+	background:rgba(255, 255, 255, 0.4);
+	padding:30px;
+	margin:20px 0;
+}
+.push{
+	height:40px;
+}
+.footer{
+	height:40px;
+	background:#003300;
+	padding:10px;
+	color:#FFD685;
+	text-align:center;
+}
+.indexBottom{
+	background:#FFD685;
+	padding:40px 0;
+}
+.indexSection{
+	text-align:center;
+}
+.indexIcon{
+	color:#003300;
+	font-size:50px;
+	margin-bottom:10px;
+}
+.pageTop{
+	background:url(../images/wood.jpg);
+	height:100vh;
+	background-repeat: none;
+	width:100%;
+	margin-top:-20px;
+	padding:40px 0 60px;
+	text-align: center;
+}
+.indexText li{
+	list-style: none;
+}
+
+
+
+
+
